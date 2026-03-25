@@ -1,0 +1,14 @@
+C:\simulation course\lab4\lab4\bin\Debug\net9.0\lab4.exe
+C:\simulation course\lab4\lab4\bin\Debug\net9.0\lab4.deps.json
+C:\simulation course\lab4\lab4\bin\Debug\net9.0\lab4.runtimeconfig.json
+C:\simulation course\lab4\lab4\bin\Debug\net9.0\lab4.dll
+C:\simulation course\lab4\lab4\bin\Debug\net9.0\lab4.pdb
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\lab4.AssemblyInfoInputs.cache
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\lab4.AssemblyInfo.cs
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\lab4.csproj.CoreCompileInputs.cache
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\lab4.dll
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\refint\lab4.dll
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\lab4.pdb
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\lab4.genruntimeconfig.cache
+C:\simulation course\lab4\lab4\obj\Debug\net9.0\ref\lab4.dll
