@@ -49,18 +49,18 @@ namespace lab5
             if (alpha < P_YES)
             {
                 countYes++;
-                labelAnswer1.Text = "ÄÀ!";
+                labelAnswer1.Text = "ДА!";
                 labelAnswer1.ForeColor = Color.Green;
             }
             else
             {
                 countNo++;
-                labelAnswer1.Text = "ÍÅÒ!";
+                labelAnswer1.Text = "НЕТ!";
                 labelAnswer1.ForeColor = Color.Red;
             }
 
             int total = countYes + countNo;
-            labelStats1.Text = $"Äà: {countYes}    Íåò: {countNo}    Âñåãî: {total}";
+            labelStats1.Text = $"Да: {countYes}    Нет: {countNo}    Всего: {total}";
         }
 
         private void btnReset1_Click(object sender, EventArgs e)
@@ -69,7 +69,7 @@ namespace lab5
             countNo = 0;
             labelAnswer1.Text = "?";
             labelAnswer1.ForeColor = Color.DarkBlue;
-            labelStats1.Text = "Äà: 0    Íåò: 0    Âñåãî: 0";
+            labelStats1.Text = "Да: 0    Нет: 0    Всего: 0";
         }
 
         private void btnAsk2_Click(object sender, EventArgs e)
@@ -93,7 +93,7 @@ namespace lab5
             int total = 0;
             foreach (int c in countAnswers) total += c;
 
-            string stats = $"Âñåãî âîïðîñîâ: {total}\n";
+            string stats = $"Всего вопросов: {total}\n";
             for (int i = 0; i < answers.Length; i++)
             {
                 double freq = total > 0 ? (double)countAnswers[i] / total : 0;
