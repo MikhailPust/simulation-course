@@ -1,0 +1,16 @@
+C:\simulation course\lab05\lab05\bin\Debug\net9.0-windows\lab05.exe
+C:\simulation course\lab05\lab05\bin\Debug\net9.0-windows\lab05.deps.json
+C:\simulation course\lab05\lab05\bin\Debug\net9.0-windows\lab05.runtimeconfig.json
+C:\simulation course\lab05\lab05\bin\Debug\net9.0-windows\lab05.dll
+C:\simulation course\lab05\lab05\bin\Debug\net9.0-windows\lab05.pdb
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab5.Form1.resources
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab05.csproj.GenerateResource.cache
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab05.GeneratedMSBuildEditorConfig.editorconfig
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab05.AssemblyInfoInputs.cache
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab05.AssemblyInfo.cs
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab05.csproj.CoreCompileInputs.cache
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab05.dll
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\refint\lab05.dll
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab05.pdb
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\lab05.genruntimeconfig.cache
+C:\simulation course\lab05\lab05\obj\Debug\net9.0-windows\ref\lab05.dll
