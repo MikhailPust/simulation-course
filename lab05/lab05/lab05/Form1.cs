@@ -17,19 +17,19 @@ namespace lab5
         int countNo = 0;
 
         string[] answers = {
-            "Определённо да",
-            "Без сомнений",
-            "Можешь быть уверен",
-            "Скорее всего да",
-            "Знаки указывают на да",
-            "Спроси позже",
-            "Лучше не говорить сейчас",
-            "Сложно сказать",
-            "Не рассчитывай на это",
-            "Мой ответ — нет",
-            "Источники говорят нет",
-            "Перспективы не очень",
-            "Очень сомнительно"
+            "РћРїСЂРµРґРµР»С‘РЅРЅРѕ РґР°",
+            "Р‘РµР· СЃРѕРјРЅРµРЅРёР№",
+            "РњРѕР¶РµС€СЊ Р±С‹С‚СЊ СѓРІРµСЂРµРЅ",
+            "РЎРєРѕСЂРµРµ РІСЃРµРіРѕ РґР°",
+            "Р—РЅР°РєРё СѓРєР°Р·С‹РІР°СЋС‚ РЅР° РґР°",
+            "РЎРїСЂРѕСЃРё РїРѕР·Р¶Рµ",
+            "Р›СѓС‡С€Рµ РЅРµ РіРѕРІРѕСЂРёС‚СЊ СЃРµР№С‡Р°СЃ",
+            "РЎР»РѕР¶РЅРѕ СЃРєР°Р·Р°С‚СЊ",
+            "РќРµ СЂР°СЃСЃС‡РёС‚С‹РІР°Р№ РЅР° СЌС‚Рѕ",
+            "РњРѕР№ РѕС‚РІРµС‚ вЂ” РЅРµС‚",
+            "РСЃС‚РѕС‡РЅРёРєРё РіРѕРІРѕСЂСЏС‚ РЅРµС‚",
+            "РџРµСЂСЃРїРµРєС‚РёРІС‹ РЅРµ РѕС‡РµРЅСЊ",
+            "РћС‡РµРЅСЊ СЃРѕРјРЅРёС‚РµР»СЊРЅРѕ"
         };
 
         double[] probabilities = { 0.10, 0.08, 0.07, 0.09, 0.06, 0.08, 0.07, 0.09, 0.06, 0.08, 0.07, 0.07, 0.08 };
@@ -49,18 +49,18 @@ namespace lab5
             if (alpha < P_YES)
             {
                 countYes++;
-                labelAnswer1.Text = "ДА!";
+                labelAnswer1.Text = "Г„ГЂ!";
                 labelAnswer1.ForeColor = Color.Green;
             }
             else
             {
                 countNo++;
-                labelAnswer1.Text = "НЕТ!";
+                labelAnswer1.Text = "ГЌГ…Г’!";
                 labelAnswer1.ForeColor = Color.Red;
             }
 
             int total = countYes + countNo;
-            labelStats1.Text = $"Да: {countYes}    Нет: {countNo}    Всего: {total}";
+            labelStats1.Text = $"Г„Г : {countYes}    ГЌГҐГІ: {countNo}    Г‚Г±ГҐГЈГ®: {total}";
         }
 
         private void btnReset1_Click(object sender, EventArgs e)
@@ -69,7 +69,7 @@ namespace lab5
             countNo = 0;
             labelAnswer1.Text = "?";
             labelAnswer1.ForeColor = Color.DarkBlue;
-            labelStats1.Text = "Да: 0    Нет: 0    Всего: 0";
+            labelStats1.Text = "Г„Г : 0    ГЌГҐГІ: 0    Г‚Г±ГҐГЈГ®: 0";
         }
 
         private void btnAsk2_Click(object sender, EventArgs e)
@@ -93,7 +93,7 @@ namespace lab5
             int total = 0;
             foreach (int c in countAnswers) total += c;
 
-            string stats = $"Всего вопросов: {total}\n";
+            string stats = $"Г‚Г±ГҐГЈГ® ГўГ®ГЇГ°Г®Г±Г®Гў: {total}\n";
             for (int i = 0; i < answers.Length; i++)
             {
                 double freq = total > 0 ? (double)countAnswers[i] / total : 0;
