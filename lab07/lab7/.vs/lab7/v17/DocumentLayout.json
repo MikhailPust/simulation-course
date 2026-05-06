@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\simulation course\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0822A2F-E27C-40C3-A37B-F74E2A8818E4}|lab7\\lab7.csproj|C:\\simulation course\\lab7\\lab7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0822A2F-E27C-40C3-A37B-F74E2A8818E4}|lab7\\lab7.csproj|solutionrelative:lab7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0822A2F-E27C-40C3-A37B-F74E2A8818E4}|lab7\\lab7.csproj|c:\\simulation course\\lab7\\lab7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0822A2F-E27C-40C3-A37B-F74E2A8818E4}|lab7\\lab7.csproj|solutionrelative:lab7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0822A2F-E27C-40C3-A37B-F74E2A8818E4}|lab7\\lab7.csproj|C:\\simulation course\\lab7\\lab7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0822A2F-E27C-40C3-A37B-F74E2A8818E4}|lab7\\lab7.csproj|solutionrelative:lab7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0822A2F-E27C-40C3-A37B-F74E2A8818E4}|lab7\\lab7.csproj|C:\\simulation course\\lab7\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0822A2F-E27C-40C3-A37B-F74E2A8818E4}|lab7\\lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\simulation course\\lab7\\lab7\\Program.cs",
+              "RelativeDocumentMoniker": "lab7\\Program.cs",
+              "ToolTip": "C:\\simulation course\\lab7\\lab7\\Program.cs",
+              "RelativeToolTip": "lab7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:08:13.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\simulation course\\lab7\\lab7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "lab7\\Form1.Designer.cs",
+              "ToolTip": "C:\\simulation course\\lab7\\lab7\\Form1.Designer.cs",
+              "RelativeToolTip": "lab7\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:08:02.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\simulation course\\lab7\\lab7\\Form1.cs",
+              "RelativeDocumentMoniker": "lab7\\Form1.cs",
+              "ToolTip": "C:\\simulation course\\lab7\\lab7\\Form1.cs",
+              "RelativeToolTip": "lab7\\Form1.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAUwAsBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:07:44.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\simulation course\\lab7\\lab7\\Form1.cs",
+              "RelativeDocumentMoniker": "lab7\\Form1.cs",
+              "ToolTip": "C:\\simulation course\\lab7\\lab7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "lab7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:07:42.109Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
