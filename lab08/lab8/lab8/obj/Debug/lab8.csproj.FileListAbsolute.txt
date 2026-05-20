@@ -1,0 +1,10 @@
+C:\simulation course\lab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+C:\simulation course\lab8\lab8\obj\Debug\lab8.Form1.resources
+C:\simulation course\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\simulation course\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+C:\simulation course\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\simulation course\lab8\lab8\bin\Debug\lab8.exe.config
+C:\simulation course\lab8\lab8\bin\Debug\lab8.exe
+C:\simulation course\lab8\lab8\bin\Debug\lab8.pdb
+C:\simulation course\lab8\lab8\obj\Debug\lab8.exe
+C:\simulation course\lab8\lab8\obj\Debug\lab8.pdb
